@@ -101,3 +101,6 @@
 
 ![invoice](https://user-images.githubusercontent.com/19597087/200101820-f906173a-e205-45b1-b11e-ef1fc147b357.jpg)
 
+
+### License and Usage: You are free to make use of this project in any form provided you acknowledge me - George Ugwu
+
